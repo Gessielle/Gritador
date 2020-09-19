@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Gritador\bin\Debug\netcoreapp3.1\Gritador.exe
+C:\Users\POSITIVO\Desktop\PC1\Gritador\bin\Debug\netcoreapp3.1\Gritador.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Gritador\bin\Debug\netcoreapp3.1\Gritador.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Gritador\bin\Debug\netcoreapp3.1\Gritador.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Gritador\bin\Debug\netcoreapp3.1\Gritador.dll
+C:\Users\POSITIVO\Desktop\PC1\Gritador\bin\Debug\netcoreapp3.1\Gritador.pdb
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.dll
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.pdb
+C:\Users\POSITIVO\Desktop\PC1\Gritador\obj\Debug\netcoreapp3.1\Gritador.genruntimeconfig.cache
